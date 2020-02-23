@@ -1,5 +1,6 @@
 ## places visited
 
+With mapbox, you can add new places in the map and remember the name, comments, date and photos of the travel.
 Fullstack work for traninig back end frontend.
 
 # Backend
