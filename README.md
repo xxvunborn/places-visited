@@ -1,7 +1,7 @@
 ## places visited
 
 With mapbox, you can add new places in the map and remember the name, comments, date and photos of the travel.
-Fullstack work for traninig back end frontend.
+Fullstack work for traninig back end frontend with: node, mongo, react, react hooks.
 
 # Backend
 
@@ -15,7 +15,7 @@ for run the backend: `npm start`
 - create the `.env` from `env.sample`
 - add enviroment variable for mapbox (mapbox.com)
 
-Run the frontend: `yarn start`
+for run the frontend: `yarn start`
 
 # TODO:
 
